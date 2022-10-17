@@ -1,0 +1,16 @@
+.messages-list {
+    list-style-type: none;
+    margin: 7px;
+    border: 1px solid lightgray;
+    padding: 0 5px 5px 15px;
+    border-radius: 5px;
+    color: gray;
+    background-color: white;
+}
+
+.user {
+    font-size: 12px;
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+}
