@@ -1,0 +1,50 @@
+#root {
+    display: flex;
+    justify-content: center;
+}
+
+.chat-container {
+    width: 55%;
+    margin: 30px;
+    padding: 25px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    background-color: rgba(217, 217, 217, 0.58);
+}
+
+.greeting {
+    margin: 0 auto;
+    margin-bottom: 20px;
+    border: 1px solid lightgrey;
+    padding: 7px;
+    width: 200px;
+    text-align: center;
+    border-radius: 5px;
+    background: rgba(211, 211, 211, 0.46);
+    font-size: 14px;
+    color: #3e3e3e;
+}
+
+
+.user-name-enter-container {
+    width: 55%;
+    padding: 50px;
+    margin: 30px;
+    background-color: rgba(246, 246, 246, 0.53);
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    height: 200px;
+}
+
+.typing-card {
+    height: 15px;
+    color: #181818;
+    width: 200px;
+}
+
+.typing {
+    margin: 0;
+    font-size: 12px;
+    font-style: italic;
+    margin-left: 15px;
+}
